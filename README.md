@@ -1,4 +1,4 @@
-# Ansible Installation of Ansible-Server
+# Ansible Installation of Ansible-Server in ec2-ami aws-linux2
  
 # To set host name in all nodes 
 ```
